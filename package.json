@@ -1,0 +1,23 @@
+{
+  "name": "mathjax-mathquill-tests",
+  "version": "1.0.0",
+  "description": "... some tests with MathJax and MathQuill javascript libraries",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorvianaom/mathjax-mathquill-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorvianaom/mathjax-mathquill-tests/issues"
+  },
+  "homepage": "https://github.com/victorvianaom/mathjax-mathquill-tests#readme",
+  "dependencies": {
+    "mathjax": "^3.0.5"
+  }
+}
